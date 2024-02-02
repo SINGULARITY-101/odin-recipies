@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Gotham";
+    src: url("fonts/Gotham-Light.otf");
+}
+
+#main-heading{
+    font-family: "Gotham",'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+
+img{
+    height: auto;
+    width: 500px;
+}
+
+.content{
+    font-family: Helvetica, sans-serif;
+}
